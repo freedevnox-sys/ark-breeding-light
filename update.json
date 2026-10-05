@@ -1,0 +1,8 @@
+{
+    "android":  {
+                    "version":  "1.0.15",
+                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.15/ARK_Breeding_Light-1.0.15.apk",
+                    "sha256":  "a82f9f1309ab7e53ec9d4a3f0823943863c2688146957d415f69de61d8728705",
+                    "notes":  "Lecture des photos renforcée (chiffres mal lus corrigés grâce au niveau, espèces du jeu en français reconnues), appareil photo intégré toujours sur l\u0027objectif arrière, et mises à jour intégrées."
+                }
+}
