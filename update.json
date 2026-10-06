@@ -1,8 +1,8 @@
 {
     "android":  {
-                    "version":  "1.0.17",
-                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.17/ARK_Breeding_Light-1.0.17.apk",
-                    "sha256":  "c1cd5b30cc4395bd006393223491bbe9f0e3b60e8e0f32a720b6d044f426d026",
-                    "notes":  "Espèces d\u0027ASE ajoutées (Tek Giganotosaurus…), liste d\u0027espèces sur tout le catalogue, compteurs de mutations ♀ / ♂ avec total visible et pris en compte dans les couples, niveau du bébé parfait."
+                    "version":  "1.0.18",
+                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.18/ARK_Breeding_Light-1.0.18.apk",
+                    "sha256":  "d36c9472e6b8cf36c8fcac00afc4f39617ecd0d555c67e9a68c762a42bd89eb5",
+                    "notes":  "Compteurs de mutations négatifs (photo et saisie avec ±), pris en compte dans les couples ; lecture des stats renforcée (dernier nombre ou barre non lus)."
                 }
 }
