@@ -1,8 +1,8 @@
 {
     "android":  {
-                    "version":  "1.0.18",
-                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.18/ARK_Breeding_Light-1.0.18.apk",
-                    "sha256":  "d36c9472e6b8cf36c8fcac00afc4f39617ecd0d555c67e9a68c762a42bd89eb5",
-                    "notes":  "Compteurs de mutations négatifs (photo et saisie avec ±), pris en compte dans les couples ; lecture des stats renforcée (dernier nombre ou barre non lus)."
+                    "version":  "1.0.19",
+                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.19/ARK_Breeding_Light-1.0.19.apk",
+                    "sha256":  "8ea0def8d9d24bf1c949a047d25359108f1480ebfc18f13a178e2f97afeaadf7",
+                    "notes":  "Photo floue remplie en partie avec contrôle du niveau, espèce reconnue d\u0027après le portrait, niveaux ajoutés à la main et niveau de départ, compteurs du bébé calculés depuis les parents."
                 }
 }
