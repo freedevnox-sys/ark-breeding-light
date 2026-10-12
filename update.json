@@ -1,8 +1,8 @@
 {
     "android":  {
-                    "version":  "1.0.20",
-                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.20/ARK_Breeding_Light-1.0.20.apk",
-                    "sha256":  "936b732cec5cc6bbed2294a9a2a10356d942554711a5a085bef14f62e08ef062",
-                    "notes":  "Analyse : chaque couple affiche le niveau de son bébé à la naissance (au mieux et au pire)."
+                    "version":  "1.0.21",
+                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.21/ARK_Breeding_Light-1.0.21.apk",
+                    "sha256":  "8b87c9571b3dfec4b834eb111bc7dbad273e20db27029ae3fb08002e061f8206",
+                    "notes":  "Résultat bébé rempli avec une photo de sa fiche (stats, compteurs, nouvelle mutation) ; chance d\u0027obtenir le bébé au mieux sur chaque couple."
                 }
 }
