@@ -1,8 +1,8 @@
 {
     "android":  {
-                    "version":  "1.0.21",
-                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.21/ARK_Breeding_Light-1.0.21.apk",
-                    "sha256":  "8b87c9571b3dfec4b834eb111bc7dbad273e20db27029ae3fb08002e061f8206",
-                    "notes":  "Résultat bébé rempli avec une photo de sa fiche (stats, compteurs, nouvelle mutation) ; chance d\u0027obtenir le bébé au mieux sur chaque couple."
+                    "version":  "1.0.22",
+                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.22/ARK_Breeding_Light-1.0.22.apk",
+                    "sha256":  "c838f24ee8fd152cea088fdefcfabc3787251c37f3622d0f392d5528ca9a4985",
+                    "notes":  "Plan d\u0027empilement des mutations, « Saisir le bébé » après une éclosion, historique des dinos, portraits partagés avec le PC."
                 }
 }
