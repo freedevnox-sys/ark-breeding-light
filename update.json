@@ -1,8 +1,8 @@
 {
     "android": {
-        "version": "1.0.23",
-        "url": "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.23/ARK_Breeding_Light-1.0.23.apk",
-        "sha256": "7ebaf2bd8ad96a0dcfe84fb94cbaac9ffd46a0e80c3525a5bd3a5754484a71ce",
-        "notes": "Photo floue : une case illisible reste vide au lieu d'être devinée. Colonne « Nb mut. » : nombre de mutations, écart avec les compteurs signalé. Libellés sur une ligne, bébé « (sûr) »."
+        "version": "1.0.24",
+        "url": "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.24/ARK_Breeding_Light-1.0.24.apk",
+        "sha256": "1eec21639ebb0878d45b023d0118796c66d55f2b887628e3184144e7d360c6bb",
+        "notes": "Fiche : la photo lue est gardée sur la fiche, s'agrandit (zoom) et se partage (Discord, messagerie…) sous un nom lisible, sans la position GPS."
     }
 }
