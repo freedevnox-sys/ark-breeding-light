@@ -1,8 +1,8 @@
 {
-    "android":  {
-                    "version":  "1.0.22",
-                    "url":  "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.22/ARK_Breeding_Light-1.0.22.apk",
-                    "sha256":  "c838f24ee8fd152cea088fdefcfabc3787251c37f3622d0f392d5528ca9a4985",
-                    "notes":  "Plan d\u0027empilement des mutations, « Saisir le bébé » après une éclosion, historique des dinos, portraits partagés avec le PC."
-                }
+    "android": {
+        "version": "1.0.23",
+        "url": "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.23/ARK_Breeding_Light-1.0.23.apk",
+        "sha256": "7ebaf2bd8ad96a0dcfe84fb94cbaac9ffd46a0e80c3525a5bd3a5754484a71ce",
+        "notes": "Photo floue : une case illisible reste vide au lieu d'être devinée. Colonne « Nb mut. » : nombre de mutations, écart avec les compteurs signalé. Libellés sur une ligne, bébé « (sûr) »."
+    }
 }
