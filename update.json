@@ -1,8 +1,8 @@
 {
     "android": {
-        "version": "1.0.24",
-        "url": "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.24/ARK_Breeding_Light-1.0.24.apk",
-        "sha256": "1eec21639ebb0878d45b023d0118796c66d55f2b887628e3184144e7d360c6bb",
-        "notes": "Fiche : la photo lue est gardée sur la fiche, s'agrandit (zoom) et se partage (Discord, messagerie…) sous un nom lisible, sans la position GPS."
+        "version": "1.0.25",
+        "url": "https://github.com/freedevnox-sys/ark-breeding-light/releases/download/A1.0.25/ARK_Breeding_Light-1.0.25.apk",
+        "sha256": "edd3a3c72d6e8252c71def87ce65a886d5c60a90a0b804f99ad1411e13f9d8d3",
+        "notes": "Catalogue : S-Giganotosaurus, S-Gargantar et S-Titanoscorpius (S-Dino Variants) ajoutés ; les prochains dinos de mods absents d'Obelisk arrivent par une liste en ligne."
     }
 }
